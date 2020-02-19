@@ -1,1 +1,1 @@
-# Java Swing for TopQuiz app
+# Use Java Swing to make TopQuiz app
